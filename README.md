@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **jwallek.dev@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-jwallek.vercel.app/Resume2022.pdf](https://portfolio-jwallek.vercel.app/Resume2022.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joseph-wallek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-wallek" height="30" width="40" /></a>
